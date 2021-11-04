@@ -21,7 +21,7 @@ Using Remix, we created a file called PupperCoin.sol and a standard ERC20Mintabl
 
 * Deploying Crowdsale (PupperCoinSale) contract
 
-![](Screenshots/contract.png)
+![](Screenshots/contract1.png)
 
 * Buying PUPs to raise the funds.
 
